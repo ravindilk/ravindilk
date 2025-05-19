@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ravindi Kariyawasam
 
-🎓 I'm a final-year BSc Physical Science student and also studying BIT at UCSC.  
+🎓 I'm a BSc graduate in Physical Science and currently in the final year of my BIT degree at UCSC.  
 🌱 Currently learning: Web development, Python, databases, and software fundamentals.  
 💡 Passionate about solving problems with code and building real-world projects.  
 🎯 Goal: To pursue a Master's in IT and kick-start a career in the tech industry.  
