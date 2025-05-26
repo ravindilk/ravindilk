@@ -9,11 +9,11 @@
 
 ## 🔧 Technologies & Tools
 
-- Programming: Python, Java, JavaScript
-- Web: HTML, CSS, Bootstrap, React (learning)
-- Databases: MySQL, PostgreSQL (basics)
+- Programming: Java, JavaScript
+- Web: HTML
+- Databases: MySQL
 - Version Control: Git & GitHub
-- Others: Linux (basic), Excel, Canva, Figma (beginner)
+- Others: Excel, Canva
 
 ---
 
@@ -21,10 +21,7 @@
 
 Here’s a few things I’m working on and plan to showcase:
 
-- 📊 **COVID-19 Data Visualizer** – Using Python and Matplotlib  
-- 📝 **To-Do App** – A simple web app using HTML, CSS, and JavaScript  
-- 📂 **File Organizer Script** – Automates file sorting on your computer  
-- 📁 **Student Record Management System** – CLI tool using Python + SQLite  
+- 📊 **COVID-19 Data Visualizer** – Using Python and Matplotlib
 
 *More projects coming soon!*
 
