@@ -9,10 +9,10 @@
 
 ## 🔧 Technologies & Tools
 
-- Programming: Java, JavaScript
-- Web: HTML
+- Programming: Java
+- Web: 
 - Databases: MySQL
-- Version Control: Git & GitHub
+- Version Control: 
 - Others: Excel, Canva
 
 ---
