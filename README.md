@@ -9,7 +9,7 @@
 
 ## 🔧 Technologies & Tools
 
-- Programming: Java
+- Programming: Java, C++, R
 - Web: 
 - Databases: MySQL
 - Version Control: 
