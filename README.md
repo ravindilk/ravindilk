@@ -9,8 +9,8 @@
 
 ## 🔧 Technologies & Tools
 
-- Programming: Java, C++, R
-- Web: 
+- Programming: Java, C++, R (Basic)
+- Web: HTML (Basic)
 - Databases: MySQL
 - Version Control: 
 - Others: Excel, Canva
