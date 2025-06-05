@@ -11,7 +11,7 @@
 
 - Programming: Java, C++, R (Basic)
 - Web: HTML (Basic)
-- Databases: MySQL
+- Databases: MySQL (Basic)
 - Version Control: 
 - Others: Excel, Canva
 
