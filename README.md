@@ -12,7 +12,7 @@
 - Programming: Java, C++, R (Basic)
 - Web: HTML (Basic)
 - Databases: MySQL (Basic)
-- Version Control: 
+- Version Control: Git, GitHub (Basic)
 - Others: Excel, Canva
 
 ---
