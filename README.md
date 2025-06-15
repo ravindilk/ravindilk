@@ -13,7 +13,7 @@
 - Web: HTML (Basic)
 - Databases: MySQL (Basic)
 - Version Control: Git, GitHub (Basic)
-- Others: Excel, Canva
+- Others: Microdoft Office, Excel (Advance), Power BI, SPSS
 
 ---
 
