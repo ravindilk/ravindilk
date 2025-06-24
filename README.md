@@ -21,7 +21,7 @@
 
 Here’s a few things I’m working on and plan to showcase:
 
-- 📊 **COVID-19 Data Visualizer** – Using Python and Matplotlib
+- ✈️ **Airline Management System** – Using Java and MySQL
 
 *More projects coming soon!*
 
