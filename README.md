@@ -19,11 +19,7 @@
 
 ## 📌 Featured Projects
 
-Here’s a few things I’m working on and plan to showcase:
-
 - ✈️ **Airline Management System** – Using Java and MySQL
-
-*More projects coming soon!*
 
 ---
 
