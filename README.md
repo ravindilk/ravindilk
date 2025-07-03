@@ -3,7 +3,7 @@
 🎓 I'm a BSc graduate in Physical Science and currently in the final year of my BIT degree at UCSC.  
 🌱 Currently learning: Web development, Python, databases, and software fundamentals.  
 💡 Passionate about solving problems with code and building real-world projects.  
-🎯 Goal: To pursue a Master's in AI and kick-start a career in the tech industry.  
+🎯 Goal: To pursue a career in the AI tech industry.  
 
 ---
 
