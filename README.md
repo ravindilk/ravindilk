@@ -19,7 +19,7 @@
 
 ## 📌 Featured Projects
 
-- ✈️ **Airline Management System** – Using Java and MySQL
+- ✈️ **Air Ticketing Management System** – Using Java and MySQL
 
 ---
 
