@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ravindi Kariyawasam
 
-🎓 I'm a BSc graduate in Physical Science and currently in the final year of my BIT degree at UCSC.  
+🎓 I'm a BSc graduate at USJ and currently in the final year of my BIT degree at UCSC.  
 🌱 Currently learning: Web development, Python, databases, and software fundamentals.  
 💡 Committed to expanding knowledge, mentoring others, and building sustainable wealth through professional excellence.  
 🎯 Goal: To build a successful career in the education sector by developing advanced teaching skills and expertise in technology subjects.
