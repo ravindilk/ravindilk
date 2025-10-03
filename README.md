@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ravindi Kariyawasam
 
-🎓 I'm a BSc graduate in Mathematics, Physics, and Statistics from USJ and a final-year BIT student at UCSC.  
-🌱 Currently learning: Web development, Python, databases, and software fundamentals.  
+🎓 I am a BSc. Physical Science graduate in Mathematics, Physics, and Statistics from the University of Sri Jayewardenepura, a final-year BIT student at the University of Colombo School of Computing, and     
+   currently working as an ICT teacher.
 💡 Committed to expanding knowledge, mentoring others, and building sustainable wealth through professional excellence.  
 🎯 Goal: To build a successful career in the education sector by developing advanced teaching skills and expertise in technology subjects.
 
@@ -9,7 +9,7 @@
 
 ## 🔧 Technologies & Tools
 
-- Programming: Java, C++, R (Basic)
+- Programming: Java, Python, C++, R (Basic)
 - Web: HTML (Basic)
 - Databases: MySQL (Basic)
 - Version Control: Git, GitHub (Basic)
