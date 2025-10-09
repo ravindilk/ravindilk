@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ravindi Kariyawasam
 
-🎓 I am a BSc. Physical Science graduate in Mathematics, Physics, and Statistics from the University of Sri Jayewardenepura, a final-year BIT student at the UCSC, and currently working as an ICT teacher.
+🎓 I am a BSc. Physical Science graduate in Mathematics, Physics, and Statistics from the University of Sri Jayewardenepura, a final-year BIT student at the UCSC, 
 💡 Committed to expanding knowledge, mentoring others, and building sustainable wealth through professional excellence.  
 🎯 Goal: To build a successful career in the education sector by developing advanced teaching skills and expertise in technology subjects.
 
