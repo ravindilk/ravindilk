@@ -18,7 +18,7 @@
 
 ## 📌 Featured Projects
 
-- ✈️ **Air Ticketing Management System** – Using Java and MySQL
+- 👨🏻‍🏫 **Web-based Parent Teacher Communication Management System**
 
 ---
 
